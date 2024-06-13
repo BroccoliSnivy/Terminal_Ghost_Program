@@ -16,6 +16,7 @@ Purpose of "os" module is to support the "clearning" of the screen after each it
 
 *************************************************************************
 ============ REQUIREMENTS ===============================================
+
 Python already has the "time" module and "os" module pre-installed.
 
 however you may need to install the colorama module so that the color changing function could work properly.
