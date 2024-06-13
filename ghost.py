@@ -43,7 +43,7 @@ class Ghost():
                                       ░                   
                 """+Fore.RESET)
     def dispalyGhostBannerArt(self, eyeArea, mouth1, mouth2, mouth3, mouth41 ,mouth42, tongue1, tongue2):
-        print(Fore.WHITE+f"""
+        print(f"""
                                       ████████████
                                   ████            ████
                               ████                    ████
@@ -67,7 +67,7 @@ class Ghost():
                             ██                                        ██
                               ████                                ████
                                   ████████████████████████████████
-              """+Fore.RESET)
+              """)
     
     def clearance(self):
         if name == "nt":
