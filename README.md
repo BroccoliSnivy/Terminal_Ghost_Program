@@ -6,7 +6,7 @@ The most important modules that i have imported in the program are "time", "colo
 *************************************************************************
 *************************************************************************
 
-#**PURPOSE OF THE IMPORTED MODULES**
+# **PURPOSE OF THE IMPORTED MODULES**
 
 Purpose of "time" module is to make the program change colors every 4 seconds.
 
@@ -17,7 +17,7 @@ Purpose of "os" module is to support the "clearning" of the screen after each it
 *************************************************************************
 *************************************************************************
 
-#**REQUIREMENTS**
+# **REQUIREMENTS**
 
 Python already has the "time" module and "os" module pre-installed.
 
